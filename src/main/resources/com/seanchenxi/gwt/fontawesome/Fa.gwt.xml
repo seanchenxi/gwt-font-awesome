@@ -2,6 +2,7 @@
 <!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.8.0-beta1//EN"
   "http://gwtproject.org/doctype/2.8.0-beta1/gwt-module.dtd">
 <module>
+  <inherits name="com.google.gwt.user.UI"/>
   <set-configuration-property name="CssResource.enableGss" value="true" />
   <source path='client'/>
 </module>
